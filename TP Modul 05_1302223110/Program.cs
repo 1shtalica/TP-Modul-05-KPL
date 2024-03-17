@@ -10,6 +10,11 @@ namespace TP_Modul_05_1302223110
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Masukkan nama anda");
+            String nama = Console.ReadLine();
+
+            HaloGeneric sapa = new HaloGeneric();
+            sapa.SapaUser(nama);
         }
     }
 }

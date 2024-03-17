@@ -15,6 +15,11 @@ namespace TP_Modul_05_1302223110
 
             HaloGeneric sapa = new HaloGeneric();
             sapa.SapaUser(nama);
+            Console.WriteLine("Masukkan data");
+            String input = Console.ReadLine();
+
+            DataGeneric<string> dataGeneric = new DataGeneric<string>(input);
+            dataGeneric.PrintData();
         }
     }
 }

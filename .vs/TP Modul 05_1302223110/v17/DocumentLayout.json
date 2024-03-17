@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 05\\TP Modul 05_1302223110\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81BFAC4D-2F18-4476-99C1-E87694F37E45}|TP Modul 05_1302223110\\TP Modul 05_1302223110.csproj|e:\\programming\\project\\kuliah\\kpl\\tp modul 05\\tp modul 05_1302223110\\tp modul 05_1302223110\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81BFAC4D-2F18-4476-99C1-E87694F37E45}|TP Modul 05_1302223110\\TP Modul 05_1302223110.csproj|solutionrelative:tp modul 05_1302223110\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 05\\TP Modul 05_1302223110\\TP Modul 05_1302223110\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP Modul 05_1302223110\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81BFAC4D-2F18-4476-99C1-E87694F37E45}|TP Modul 05_1302223110\\TP Modul 05_1302223110.csproj|e:\\programming\\project\\kuliah\\kpl\\tp modul 05\\tp modul 05_1302223110\\tp modul 05_1302223110\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81BFAC4D-2F18-4476-99C1-E87694F37E45}|TP Modul 05_1302223110\\TP Modul 05_1302223110.csproj|solutionrelative:tp modul 05_1302223110\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 05\\TP Modul 05_1302223110\\TP Modul 05_1302223110\\HaloGeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP Modul 05_1302223110\\HaloGeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -30,7 +46,7 @@
               "RelativeToolTip": "TP Modul 05_1302223110\\HaloGeneric.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:11:27.608Z",
+              "WhenOpened": "2024-03-17T14:07:29.177Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +57,9 @@
               "RelativeDocumentMoniker": "TP Modul 05_1302223110\\Program.cs",
               "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 05\\TP Modul 05_1302223110\\TP Modul 05_1302223110\\Program.cs",
               "RelativeToolTip": "TP Modul 05_1302223110\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T11:55:26.871Z",
+              "WhenOpened": "2024-03-17T14:07:29.202Z",
               "EditorCaption": ""
             }
           ]
